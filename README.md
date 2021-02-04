@@ -36,4 +36,4 @@ Whether you attend a face-to-face or webinar version of this course or if you in
 
 The following are links to the Notebooks which will open in Google Colab. To use these links, you will need to log into a Google account. Once you click the link, you may see a page saying "Connected apps". If Google Colaboratory is in the list, click it to open the notebook. If it's not, click "Connect more apps...", search for "Colab" and connect the app before selecting it.
 
-* [What Are NumPy and SciPy](<https://colab.research.google.com/github/coolernato/Numerical-Computing-in-Python-with-NumPy-and-SciPy/blob/master/What_ are_ NumPy_ and_ SciPy.ipynb>)
+* [What Are NumPy and SciPy](<https://colab.research.google.com/github/coolernato/Numerical-Computing-in-Python-with-NumPy-and-SciPy/blob/master/What are NumPy and SciPy.ipynb>)
