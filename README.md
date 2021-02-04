@@ -37,3 +37,11 @@ Whether you attend a face-to-face or webinar version of this course or if you in
 The following are links to the Notebooks which will open in Google Colab. To use these links, you will need to log into a Google account. Once you click the link, you may see a page saying "Connected apps". If Google Colaboratory is in the list, click it to open the notebook. If it's not, click "Connect more apps...", search for "Colab" and connect the app before selecting it.
 
 * [What Are NumPy and SciPy](<https://colab.research.google.com/github/coolernato/Numerical-Computing-in-Python-with-NumPy-and-SciPy/blob/master/What are NumPy and SciPy.ipynb>)
+* [Creating and Manipulating NumPy Arrays](<https://colab.research.google.com/github/coolernato/Numerical-Computing-in-Python-with-NumPy-and-SciPy/blob/master/Creating and Manipulating NumPy Arrays.ipynb>)
+* [Array Operations](<https://colab.research.google.com/github/coolernato/Numerical-Computing-in-Python-with-NumPy-and-SciPy/blob/master/Array Operations.ipynb>)
+* [Calculus](<https://colab.research.google.com/github/coolernato/Numerical-Computing-in-Python-with-NumPy-and-SciPy/blob/master/Calculus.ipynb>)
+* [Bult-In Funtions](<https://colab.research.google.com/github/coolernato/Numerical-Computing-in-Python-with-NumPy-and-SciPy/blob/master/Bult-In Funtions.ipynb>)
+* [Initial Value Problems](<https://colab.research.google.com/github/coolernato/Numerical-Computing-in-Python-with-NumPy-and-SciPy/blob/master/Initial Value Problems.ipynb>)
+* [Other Features](<https://colab.research.google.com/github/coolernato/Numerical-Computing-in-Python-with-NumPy-and-SciPy/blob/master/Other Features.ipynb>)
+* [Projects](<https://colab.research.google.com/github/coolernato/Numerical-Computing-in-Python-with-NumPy-and-SciPy/blob/master/Projects.ipynb>)
+
