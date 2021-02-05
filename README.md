@@ -31,6 +31,7 @@ Whether you attend a face-to-face or webinar version of this course or if you in
 * numpy
 * scipy
 * matplotlib
+* line_profiler
 
 ## Colab Links
 
