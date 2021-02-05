@@ -43,5 +43,6 @@ The following are links to the Notebooks which will open in Google Colab. To use
 * [Built-In Functions](<https://colab.research.google.com/github/coolernato/Numerical-Computing-in-Python-with-NumPy-and-SciPy/blob/master/Built-In Functions.ipynb>)
 * [Initial Value Problems](<https://colab.research.google.com/github/coolernato/Numerical-Computing-in-Python-with-NumPy-and-SciPy/blob/master/Initial Value Problems.ipynb>)
 * [Other Features](<https://colab.research.google.com/github/coolernato/Numerical-Computing-in-Python-with-NumPy-and-SciPy/blob/master/Other Features.ipynb>)
+* [Performance Comparison](<https://colab.research.google.com/github/coolernato/Numerical-Computing-in-Python-with-NumPy-and-SciPy/blob/master/Performance Comparison.ipynb>)
 * [Projects](<https://colab.research.google.com/github/coolernato/Numerical-Computing-in-Python-with-NumPy-and-SciPy/blob/master/Projects.ipynb>)
 
