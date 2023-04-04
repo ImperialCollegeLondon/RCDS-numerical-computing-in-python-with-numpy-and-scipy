@@ -6,7 +6,7 @@
 
 To complete this course, you will need to run Jupyter Notebook files on your computer. The easiest way to do this is to ensure you have a Google account. This will allow us to use the online Google Colab tool to run the notebooks on the day.
 
-Alternatively, if you don’t have and don’t want to create a Google account, you may instead install Anaconda on your computer by downloading the appropriate distribution from [here](https://www.anaconda.com/distribution/).
+Alternatively, if you don’t have and don’t want to create a Google account, you can download and run the notebooks locally instead using whichever program you are most familiar and comfortable with. For instance, install Anaconda on your computer by downloading the appropriate distribution from [here](https://www.anaconda.com/distribution/), or install [Miniconda](https://docs.conda.io/en/latest/miniconda.html) and [install the package](https://cs205uiuc.github.io/guidebook/resources/python-miniconda.html) ```jupyter``` within it.
 
 The presentation and the Notebooks may be found [here](https://github.com/coolernato/Numerical-Computing-in-Python-with-NumPy-and-SciPy/archive/refs/heads/master.zip). You should download them before the course. However, you do not need to read them before attending.
 
