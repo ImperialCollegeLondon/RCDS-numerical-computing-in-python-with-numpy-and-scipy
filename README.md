@@ -42,7 +42,7 @@ The following are links to the Notebooks which will open in Google Colab. To use
 * [What Are NumPy and SciPy](<https://colab.research.google.com/github/coolernato/Numerical-Computing-in-Python-with-NumPy-and-SciPy/blob/master/What are NumPy and SciPy.ipynb>)
 * [Creating and Manipulating NumPy Arrays](<https://colab.research.google.com/github/coolernato/Numerical-Computing-in-Python-with-NumPy-and-SciPy/blob/master/Creating and Manipulating NumPy Arrays.ipynb>)
 * [Array Operations](<https://colab.research.google.com/github/coolernato/Numerical-Computing-in-Python-with-NumPy-and-SciPy/blob/master/Array Operations.ipynb>)
-* [Integration](<https://colab.research.google.com/github/coolernato/Numerical-Computing-in-Python-with-NumPy-and-SciPy/blob/master/Inegration.ipynb>)
+* [Integration](<https://colab.research.google.com/github/coolernato/Numerical-Computing-in-Python-with-NumPy-and-SciPy/blob/master/Integration.ipynb>)
 * [Built-In Functions](<https://colab.research.google.com/github/coolernato/Numerical-Computing-in-Python-with-NumPy-and-SciPy/blob/master/Built-In Functions.ipynb>)
 * [Initial Value Problems](<https://colab.research.google.com/github/coolernato/Numerical-Computing-in-Python-with-NumPy-and-SciPy/blob/master/Initial Value Problems.ipynb>)
 * [Other Features](<https://colab.research.google.com/github/coolernato/Numerical-Computing-in-Python-with-NumPy-and-SciPy/blob/master/Other Features.ipynb>)
