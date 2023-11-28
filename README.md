@@ -49,3 +49,5 @@ The following are links to the Notebooks which will open in Google Colab. To use
 * [Performance Comparison](<https://colab.research.google.com/github/coolernato/Numerical-Computing-in-Python-with-NumPy-and-SciPy/blob/master/Performance Comparison.ipynb>)
 * [Projects](<https://colab.research.google.com/github/coolernato/Numerical-Computing-in-Python-with-NumPy-and-SciPy/blob/master/Projects.ipynb>)
 
+You do not need to look at these notebooks before the course unless you want to.
+
