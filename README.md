@@ -51,3 +51,10 @@ The following are links to the Notebooks which will open in Google Colab. To use
 
 You do not need to look at these notebooks before the course unless you want to.
 
+## Post-Course Follow-Up: ReCoDE Exemplar
+The RCDS team has curated a collection of annotated [exemplar projects](https://imperialcollegelondon.github.io/ReCoDE-home/exemplars/) known as [ReCoDE](https://imperialcollegelondon.github.io/ReCoDE-home/) which demonstrate core research computing and data science principles applied to real problems. Each exemplar is a real project created by an Imperial student based on their research. Each exemplar is accompanied by detailed descriptions of how they work, and the design decisions taken when constructing the code. There are two Fortran exemplars:
+
+* [**Euler Maruyama Method**](https://imperialcollegelondon.github.io/ReCoDe-Euler-Maruyama/): This exemplar focuses on solving Stochastic Differential Equations in Python. The code uses Numpy arrays to store the data of the simulation and progress the simulation. It also shows how to use Numpy in an object-oriented program.
+* [**Using Convolutional Neural Networks to extract information from the Cosmic Dawn**](https://imperialcollegelondon.github.io/ReCoDE-FirstDawn/): This exemplar uses a Convolutional Neural Network to extract information about the early universe. Data is prepared for use in TensorFlow using Numpy arrays.
+*[**Binary Classification of Patent Text Using Natural Language Processing**](https://imperialcollegelondon.github.io/ReCoDE-AIForPatents/): This exemplar uses Natural Language Processing to classify patents. The code uses Numpy arrays to store and prepare the data.
+*[**A Multi-Channel GUI for Real-Time Data Display and Analysis**](https://imperialcollegelondon.github.io/ReCoDE-PythonGUI/): This exemplar presents a GUI for real-time data display and analysis in a medical context. The data used in the GUI is stored in Numpy arrays.
