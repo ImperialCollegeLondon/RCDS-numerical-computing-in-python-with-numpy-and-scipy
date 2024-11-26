@@ -31,9 +31,8 @@ Whether you attend a face-to-face or webinar version of this course or if you in
 * numpy
 * scipy
 * matplotlib
-* line_profiler
 
-If you're familair with how to do so, you can use the file ```requirements.txt``` in this repository to set up your environment.
+If you're familiar with how to do so, you can use the file ```requirements.txt``` in this repository to set up your environment.
 
 ## Colab Links
 
